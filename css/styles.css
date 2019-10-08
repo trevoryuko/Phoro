@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-image: url("../");
     background-repeat: no-repeat;
@@ -6,3 +7,31 @@ body {
   .login{
       float: right;
   }
+=======
+body {background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+     url("../images/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+  .login{
+      float: right;
+  }
+  img {
+    padding-top: 9%;
+    width: 70vh;
+    height: 60vh;
+    padding-left: 25%;
+}
+h2 {
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    padding-top: 3%;
+    text-decoration: underline;
+}
+p {
+    font-size: 20px;
+    color: white;
+}
+>>>>>>> 958eb756afe011b0bcfe4a4228130e80b565f5f2
